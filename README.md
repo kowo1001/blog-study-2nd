@@ -80,9 +80,7 @@
 | | | |
 |[발가락][발가락]|\[CKAD\] section 4. Multi-Container Pod|https://blog.rgbplace.com/436|
 | | | |
-|[J-Chris][J-Chris]|1. 3/27 -UI 만드는 step 및 셀렉터  
-2. 3/28 -One-way UI 애니메이션  
-3. 3. 3/29 -alert 박스와 기능 만들기(+닫기버튼)  4. 3/30 -로그인 버튼 누르면 모달창 생성  5. 3/31 -폼전송 방지 및 변수|https://blog.naver.com/hijongwook|
+|[J-Chris][J-Chris]|1. 3/27 -UI 만드는 step 및 셀렉터 2. 3/28 -One-way UI 애니메이션 3. 3/29 -alert 박스와 기능 만들기(+닫기버튼) 4. 3/30 -로그인 버튼 누르면 모달창 생성  5. 3/31 -폼전송 방지 및 변수|https://blog.naver.com/hijongwook|
 | |
 | |
 |[윤유상][윤유상]|||
